@@ -1,4 +1,4 @@
- Hi there 👋 I'm Naveen Kumar R
+<h1 align="center"> Hi there 👋 I'm Naveen Kumar R</h1>
 
 🎓 Computer Science (AI) Student  
 💡 Passionate about Software Development & Data Science  
