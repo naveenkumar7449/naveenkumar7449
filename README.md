@@ -33,3 +33,4 @@ To build scalable software systems and become a Software Development Engineer at
 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/naveen-kumar-r-096783333?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Kaggle: https://www.kaggle.com/naveenkumar7449
