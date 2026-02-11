@@ -5,13 +5,13 @@
 
 🎓 Computer Science (AI) Student  
 💡 Passionate about Software Development & Data Science  
-🚀 Aspiring SDE at Amazon  
+🚀 Aspiring SDE 
 
 ---
 
 🛠 Tech Stack
 
-- 💻 Languages: Python, Java, JavaScript, SQL
+- 💻 Languages: Python, JavaScript, SQL
 - 🌐 Frontend: HTML, CSS
 - 📊 Tools: Power BI, Excel
 - 🗄 Database: MySQL
@@ -21,7 +21,7 @@
 
 📈 Currently Learning
 
-- Data Structures & Algorithms (Java)
+- Data Structures & Algorithms 
 - Backend Development
 - System Design Basics
 
