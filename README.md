@@ -1,4 +1,7 @@
 <h1 align="center"> Hi there 👋 I'm Naveen Kumar R</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Student;Aspiring+Software+Development+Engineer;Java+%7C+Python+%7C+DSA;Future+Amazon+SDE" />
+</p>
 
 🎓 Computer Science (AI) Student  
 💡 Passionate about Software Development & Data Science  
