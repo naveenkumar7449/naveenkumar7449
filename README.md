@@ -1,22 +1,35 @@
-## Hi there 👋
-![download](https://github.com/user-attachments/assets/4697c95e-604f-462f-8ebe-ced4fad665f0)
+ Hi there 👋 I'm Naveen Kumar R
 
+🎓 Computer Science (AI) Student  
+💡 Passionate about Software Development & Data Science  
+🚀 Aspiring SDE at Amazon  
 
+---
 
+🛠 Tech Stack
 
+- 💻 Languages: Python, Java, JavaScript, SQL
+- 🌐 Frontend: HTML, CSS
+- 📊 Tools: Power BI, Excel
+- 🗄 Database: MySQL
+- ⚙ Version Control: Git & GitHub
 
+---
 
-<!--
-**naveenkumar7449/naveenkumar7449** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📈 Currently Learning
 
-Here are some ideas to get you started:
+- Data Structures & Algorithms (Java)
+- Backend Development
+- System Design Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🎯 Career Goal
+
+To build scalable software systems and become a Software Development Engineer at a top product-based company.
+
+---
+
+📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/naveen-kumar-r-096783333?utm_source=share_via&utm_content=profile&utm_medium=member_android
